@@ -1,0 +1,127 @@
+{
+    "name": "John Doe",
+    "email": "test@gmail.com",
+    "location": "Lahore, Pakistan",
+    "phone": "+923000000000",
+    "socials": [
+        {
+            "url": "https://www.linkedin.com/in/john_doe/",
+            "display": "linkedin.com/in/jon_doe/"
+        },
+        {
+            "url": "https://github.com/john_doe",
+            "display": "github.com/john_doe"
+        }
+    ],
+    "summary": "Blah Blah blah",
+    "experience": [
+        {
+            "name": "Company 1",
+            "role": "Unpaid Intern",
+            "dates": "Jan 2000 - Dec 2000",
+            "location": "Lahore, Pakistan",
+            "comments": [
+                "Achieved this",
+                "Achieved that"
+            ]
+        },
+        {
+            "name": "Company 2",
+            "role": "Unpaid intern",
+            "dates": "Jan 2000 - Dec 2000",
+            "location": "Lahore, Pakistan",
+            "comments": [
+                "Achieved this",
+                "Achieved that"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project 1",
+            "url": "https://github.com/",
+            "comments": [
+                "achived this",
+                "achived that"
+            ]
+        },
+        {
+            "name": "Project 2",
+            "url": "https://github.com/",
+            "comments": [
+                "achived this",
+                "achived that"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "Bachelors",
+            "institute": "Uni",
+            "location": "Lahore, Pakistan",
+            "dates": "Jan 2000 - Dec 2000",
+            "comments": [
+                "point 1",
+                "point 2"
+            ]
+        },
+        {
+            "title": "Matric",
+            "institute": "School",
+            "dates": "Jan 2000 - Dec 2000",
+            "location": "Lahore, Pakistan",
+            "comments": [
+                "point 1",
+                "point 2"
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "date": "Jan 2000",
+            "title": "C1 English",
+            "issuer": "AMD",
+            "url": "https://",
+            "url_display": "xxxx"
+        },
+        {
+            "date": "Jan 2000",
+            "title": "C2 English",
+            "issuer": "AMD",
+            "url": "https://",
+            "url_display": "xxxx"
+        }
+    ],
+    "volunteering": [
+        {
+            "title": "Capture the Flag",
+            "description": "at SFSFSSFS",
+            "dates": "Jan 2000 - Dec 2000",
+            "location": "Lahore, Pakistan",
+            "comments": [
+                "Achieved this",
+                "Achieved that"
+            ]
+        },
+        {
+            "title": "Capture the Flag",
+            "description": "at SFSFFS",
+            "dates": "Jan 2000 - Dec 2000",
+            "location": "Lahore, Pakistan",
+            "comments": [
+                "Achieved this",
+                "Achieved that"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "section_name": "technical",
+            "skills_list": [
+                "C",
+                "C++",
+                "Python"
+            ]
+        }
+    ]
+}
