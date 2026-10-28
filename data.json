@@ -1,19 +1,38 @@
 {
-    "name": "John Doe",
-    "email": "test@gmail.com",
+    "name": "Example Name",
+    "email": "example@gmail.com",
     "location": "Lahore, Pakistan",
     "phone": "+923000000000",
     "socials": [
         {
-            "url": "https://www.linkedin.com/in/john_doe/",
-            "display": "linkedin.com/in/jon_doe/"
+            "url": "https://www.linkedin.com/in/example_name/",
+            "display": "linkedin.com/in/example_name/"
         },
         {
-            "url": "https://github.com/john_doe",
-            "display": "github.com/john_doe"
+            "url": "https://github.com/example_name",
+            "display": "github.com/example_name"
         }
     ],
-    "summary": "Blah Blah blah",
+    "summary": "Place holder text for professional summary. Write your professional summary here.",
+    "skills": [
+        {
+            "section_name": "Technical",
+            "skills_list": [
+                "C",
+                "C++",
+                "Python",
+                "JavaScript"
+            ]
+        },
+        {
+            "section_name": "Soft",
+            "skills_list": [
+                "Communication",
+                "Documentation",
+                "Problem solving"
+            ]
+        }
+    ],
     "experience": [
         {
             "name": "Company 1",
@@ -21,8 +40,11 @@
             "dates": "Jan 2000 - Dec 2000",
             "location": "Lahore, Pakistan",
             "comments": [
-                "Achieved this",
-                "Achieved that"
+                "Developed website using HTML and CSS.",
+                "Maintained records of code base and documentation with semantic versioning.",
+                "Maintained documentation including project charter, scope, software requirements specification, technical design document, architecture decisions records, incident and progress reports, test cases, plans, deployment runbook.",
+                "Monitored security and anonymous telemetry.",
+                "Release and release management."
             ]
         },
         {
@@ -31,48 +53,48 @@
             "dates": "Jan 2000 - Dec 2000",
             "location": "Lahore, Pakistan",
             "comments": [
-                "Achieved this",
-                "Achieved that"
+                "Performed database queries and content updates through a Strapi headless CMS.",
+                " Developed UI components using HTML, CSS, JavaScript, and React."
             ]
         }
     ],
     "projects": [
         {
             "name": "Project 1",
-            "url": "https://github.com/",
+            "url": "https://github.com/example_name/example_project",
             "comments": [
-                "achived this",
-                "achived that"
+                "Designed an automated personal knowledge-base pipeline that converts Markdown notes into a published static website using MkDocs, YAML, Bash, Python, and LaTeX",
+                "Designed an automated backup workflow using Google Drive, GitHub, and GitLab to provide redundant storage and reduce risk of data loss from hardware or power failures."
             ]
         },
         {
             "name": "Project 2",
-            "url": "https://github.com/",
+            "url": "https://github.com/example_name/example_project",
             "comments": [
-                "achived this",
-                "achived that"
+                " Developed a multi-threaded ray tracing renderer in C++ that distributes pixel computation across a configurable number of threads, boosting image generation depending upon hardware (4x on 6 cores processor) and shows the result on a SFML window",
+                "Built a JSON-driven configuration system covering four parameter groups - scene objects (size, color, material, position), camera (position, orientation, focal length), image output (dimensions, samples per pixel), and thread count - so scenes can be re-rendered without touching code."
             ]
         }
     ],
     "education": [
         {
             "title": "Bachelors",
-            "institute": "Uni",
+            "institute": "University of Pakistan",
             "location": "Lahore, Pakistan",
             "dates": "Jan 2000 - Dec 2000",
             "comments": [
-                "point 1",
-                "point 2"
+                "CGPA: 3.7/4.0",
+                "Studied Computer Science"
             ]
         },
         {
-            "title": "Matric",
-            "institute": "School",
+            "title": "College",
+            "institute": "Boys College",
             "dates": "Jan 2000 - Dec 2000",
             "location": "Lahore, Pakistan",
             "comments": [
-                "point 1",
-                "point 2"
+                "Grades: 88%",
+                "Studied ICS"
             ]
         }
     ],
@@ -80,47 +102,37 @@
         {
             "date": "Jan 2000",
             "title": "C1 English",
-            "issuer": "AMD",
-            "url": "https://",
-            "url_display": "xxxx"
+            "issuer": "EF SET",
+            "url": "https://example.com",
+            "url_display": "verification_link_display"
         },
         {
             "date": "Jan 2000",
-            "title": "C2 English",
+            "title": "ROCm Associate",
             "issuer": "AMD",
-            "url": "https://",
-            "url_display": "xxxx"
+            "url": "https://examplle.com",
+            "url_display": "verification_link_display"
         }
     ],
     "volunteering": [
         {
-            "title": "Capture the Flag",
-            "description": "at SFSFSSFS",
+            "title": "Revenue Cat Shipaton",
+            "description": "Hackathon",
             "dates": "Jan 2000 - Dec 2000",
-            "location": "Lahore, Pakistan",
+            "location": "Remote",
             "comments": [
-                "Achieved this",
-                "Achieved that"
+                "Developed mobile game in Unity for android",
+                "Integrated Ads"
             ]
         },
         {
-            "title": "Capture the Flag",
-            "description": "at SFSFFS",
+            "title": "National Skills Competency Test",
+            "description": "Benchmark",
             "dates": "Jan 2000 - Dec 2000",
             "location": "Lahore, Pakistan",
             "comments": [
-                "Achieved this",
-                "Achieved that"
-            ]
-        }
-    ],
-    "skills": [
-        {
-            "section_name": "technical",
-            "skills_list": [
-                "C",
-                "C++",
-                "Python"
+                "Grades: 68/100",
+                "Different domains: web, AI, Security, Networks, Databases, generic software engineering"
             ]
         }
     ]

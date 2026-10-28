@@ -1,4 +1,4 @@
-#import "./interface.typ": prof_summary
+#import "./interface.typ": data
 
 // NOTE: Section Builder
 #let summary() = {[
@@ -8,7 +8,7 @@
 
   // NOTE: Content starts here
 
-  #prof_summary
+  #data.summary
 
   // NOTE: Content ends here
 

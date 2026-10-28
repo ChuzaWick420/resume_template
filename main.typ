@@ -3,12 +3,12 @@
 
 #import "./header.typ": header
 #import "./summary.typ": summary
+#import "./skills.typ": skills
 #import "./projects.typ": projects
+#import "./experience.typ": experience
 #import "./education.typ": education
 #import "./certificates.typ": certificates
-#import "./experience.typ": experience
 #import "./volunteering.typ": volunteering
-#import "./skills.typ": skills
 
 // NOTE: You can re-order or remove sections here.
 
