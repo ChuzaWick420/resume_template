@@ -3,7 +3,7 @@ This resume template is inspired by `basic resume`[^1]. In the original inspirat
 
 ## Pre-requisites
 
-- Install `typst 0.14.2+`.
+- Install [`typst 0.14.2+`](https://github.com/typst/typst/releases).
 
 ## How to use
 
